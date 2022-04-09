@@ -20,7 +20,7 @@
     "koa-session": "^5.12.3",
     "koa-static": "^5.0.0",
     "log4js": "^5.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mysql": "mysqljs/mysql",
     "mysql2": "^1.7.0",
     "redis": "^2.8.0",
